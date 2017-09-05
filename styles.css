@@ -1,0 +1,21 @@
+/* styles.css */
+body {
+    font: Helvetica
+}
+h1 {
+    font-family: "Arial";
+    font-style: "Bold";
+    font-size: 36;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+    text-align: center;
+}
+
+p {
+  font-family: "Arial";
+
+  font-size: 15;
+  /*padding-top: 2cm;
+  padding-bottom: 2cm;*/
+  text-align: center;
+}
