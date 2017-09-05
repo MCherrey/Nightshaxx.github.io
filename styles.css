@@ -19,3 +19,5 @@ p {
   padding-bottom: 2cm;*/
   text-align: center;
 }
+
+ul { display:table; margin:0 auto;}
